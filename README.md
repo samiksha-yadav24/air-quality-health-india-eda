@@ -14,4 +14,6 @@ AQI aggregated from city/station level up to state level, which masks intra-stat
 Station count per state is uneven (ranging from 1 to 56 stations) — states with fewer stations have less reliable averages
 NFHS-6 excluded Manipur; 5 small UTs had no matching AQI stations, reducing final sample to 30 states
 Correlation does not imply causation; no controls for confounding variables (population density, income, healthcare access)
+
+
 ![PM2.5 vs ARI scatter plot](pm25_vs_ari_scatter.png)
